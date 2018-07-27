@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="IIHS Regression Tests" verbose="2">
+
+	<test name="- IIHS Fatality Statistics Automation Regression Tests">
+		<packages>
+			<package name=".*"></package>
+		</packages>
+	</test>
+
+</suite>
